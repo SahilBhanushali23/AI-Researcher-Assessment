@@ -1,0 +1,10 @@
+langgraph
+langchain
+langchain-groq
+groq
+google-generativeai
+python-dotenv
+pandas
+typing-extensions
+jupyter
+ipykernel
